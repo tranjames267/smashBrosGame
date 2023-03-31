@@ -1,0 +1,27 @@
+Fire ball,10,65
+Front smash,30,25
+Slide dash,15,60
+Quick punch,5,80
+Grab and throw,20,40
+Meteor smash,40,10
+
+Great spin,40,10
+Shoot arrow,5,80
+Boomerang throw,20,40
+Bomb throw,30,25
+Slash,15,60
+Hook shot,10,65
+
+Head butt,5,80
+Shock,10,65
+Tackle,15,60
+Charge and launch,40,10
+Thunder bolt,30,25
+Roll em over,20,40
+
+Swallow,15,60
+Quick jabs,5,80
+Hammer charge,40,10
+Wind blade,10,65
+Rock drop,20,40
+Grab and slam,30,25

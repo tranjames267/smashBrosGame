@@ -1,0 +1,5 @@
+Home run! You picked up a baseball bat and damaged your opponent by 50!,50
+You picked up a hammer and damaged your opponent by 30! Smash away!,30
+Does it feel a bit toasty in here? You picked up a fire rod and damaged your opponent by 15!,15
+You get to make the shots now. You picked up a ray gun and damaged your opponent by 10.,10
+You picked up a fan and damaged your opponent by 3.,3
